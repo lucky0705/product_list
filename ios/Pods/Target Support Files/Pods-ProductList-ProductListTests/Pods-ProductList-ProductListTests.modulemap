@@ -1,0 +1,6 @@
+module Pods_ProductList_ProductListTests {
+  umbrella header "Pods-ProductList-ProductListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
